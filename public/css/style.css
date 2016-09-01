@@ -1,0 +1,19 @@
+#login{
+	margin-top:10px;
+}
+.btn-default{
+	    background-color: #30a5ff;
+    border-color: #30a5ff;
+	color: white;
+	
+}
+p.error1{
+	color:red;background:rgba(233, 90, 30, 0.24);padding:10px;margin-top:5px;
+	border-radius: 5px;
+
+}
+label.error{
+	color:red;background:rgba(233, 90, 30, 0.24);padding:10px;margin-top:5px;
+	border-radius: 5px;
+	font-weight: normal;
+}
